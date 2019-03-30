@@ -1,10 +1,9 @@
-# five-in-a-row
-self-done five-in-a-row
+# MFC 的五子棋
 
-Just Download it and unzip it
-then open your visual studio to compile it
-(vs2012)
-you can also find a ".wav" music and rename it to "Boom.wav" and 
-add this file to Source folder
+下载该文件
+然后用vs2012编译
 
-or modify the code 
+音乐文件太大没上传 可以自行找一个 ".wav" 文件 
+改名为 "Boom.wav" 添加到 "Source"文件夹下
+
+或者修改代码
